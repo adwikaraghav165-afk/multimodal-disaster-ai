@@ -1,0 +1,10 @@
+streamlit
+torch
+torchvision
+pandas
+numpy
+scikit-learn
+joblib
+folium
+streamlit-folium
+Pillow
